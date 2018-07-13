@@ -1,5 +1,5 @@
-<h1 style="font-size:12px"># Estudos</h1>
-<strong style= "font-size:15px">Neste repositório há: </br></strong>
+<h1># Estudos</h1>
+<strong style= "font-size:15px"> Neste repositório há: </strong> </br></br>
 <ul>
   <li> Exercícios feitos de curso </li>
   <li> Alguns desafios  </li>
