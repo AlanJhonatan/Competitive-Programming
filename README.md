@@ -7,4 +7,4 @@
   <li> Exercícios de Onlines Judges (Uri, UVA, HackerRank, etc). </li>
 </ul>
 </br>
-<i style= "font-size:12px"> <font style="font-size:17px"> O</font>brigado pela visita ! Volte sempre ! </i>
+<i style= "font-size:12px"> <font style="font-size:17px !important"> O</font>brigado pela visita ! Volte sempre ! </i>
