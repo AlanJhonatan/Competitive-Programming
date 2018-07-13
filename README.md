@@ -1,4 +1,4 @@
-<h1 style = "font-size:4em"># Estudos</h1>
+<h1 style="font-size:12px"># Estudos</h1>
 <strong>Neste repositório há: </strong>
 <ul>
   <li> Exercícios feitos de curso </li>
