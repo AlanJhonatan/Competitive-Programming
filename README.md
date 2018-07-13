@@ -5,5 +5,5 @@
   <li> Alguns desafios  </li>
   <li> Exercícios de Onlines Judges (Uri, UVA, HackerRank, etc). </li>
 </ul>
-
+</br>
 <i style= "font-size:12px"> Obrigado pela visita ! Volte sempre ! </i>
