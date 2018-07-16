@@ -1,33 +1,38 @@
-//ARRUMAR OS N CASOS DE TESTES, E TRATAR O ESPA«O.
-
+//
+//  Passa nos casos de teste, por√©m da time limit.
+//
 #include <bits/stdc++.h>
 using namespace std;
 int main()
 {
-    int n, tam=0;
-    string c;
-    vector <string> s;
-    cin >> n;
-    cin.ignore();
-    for (int i = 0; i < n; i++){
-        getline(cin,c);
-        s.push_back(c);
+    int n, tammax = 0;
+    string p;
+    vector <string> str;
 
-        if (tam < static_cast <int> (c.size())){
-            tam = c.size();
+    while (1){
+        cin >> n;
+        if (n == 0){
+            return 0;
         }
-    }
-    for (int i = 0; i < n; i++){
-
-        if (static_cast<int>(s[i].length()) < tam){
-            for (int j = 0; j < static_cast <int> (tam - s[i].size()); j++) {
-                cout<< " ";
+        cin.ignore();
+        for (int i = 0; i < n; i++){
+            getline(cin, p);
+            p.erase(remove(p.begin(), p.end(), ' '), p.end()); //PESQUISAR SOBRE REMOVE/ERASE.
+            str.push_back(p);
+            if (tammax < static_cast<int>(p.length())) {
+                tammax = p.length();
             }
-            cout << s[i]<<endl;
-            } else
-            cout << s[i]<<endl;
+        }
+        for (int i = 0; i < static_cast <int> (str.size()); i++){
+            if (static_cast <int> (str[i].length())< tammax){
+                for (int j = 0; j < tammax - static_cast <int> (str[i].length()); j++){
+                    cout << " ";
+                }
+            }
+            cout << str[i] << endl;
+        }
+        cout << endl;
     }
-
 
     return 0;
 }
