@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int n, tammax = 0;
+    int n, tammax = 0,cases = 0;
     string p;
     vector <string> str;
     while (1){
@@ -10,6 +10,7 @@ int main()
         if (n == 0){
             break;
         }
+        if (cases == 1) {cases =0;cout<< endl;}
         cin.ignore();
         for (int i = 0; i < n; i++){
             getline(cin, p);
@@ -18,13 +19,11 @@ int main()
                 tammax = p.length();
             }
         }
-        cout << endl;
         for (int i = 0; i < static_cast <int> (str.size()); i++){
              cout << setw(tammax) << str[i] << endl;
         }
         tammax = 0; str.clear();
-        cout << endl;
+        cases = 1;
     }
     return 0;
 }
-
