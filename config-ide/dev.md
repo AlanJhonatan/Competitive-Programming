@@ -4,4 +4,4 @@
 		"-std=c++14"
 	or 	
 		"-std=c++11"
-	<i>(or anithing else, remembering, depends what u want)</i>
+	<em>or anithing else, remembering, depends what u want</em>
