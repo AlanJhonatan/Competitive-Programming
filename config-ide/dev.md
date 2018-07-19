@@ -4,4 +4,4 @@
 		"-std=c++14"
 	or 	
 		"-std=c++11"
-	<em>or anithing else, remembering, depends what u want</em>
+	or anithing else, remembering, depends what version u want
