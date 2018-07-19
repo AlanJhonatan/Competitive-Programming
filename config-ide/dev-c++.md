@@ -1,4 +1,4 @@
-<h1>On Dev C++, to use the c++14 compiler:</h1>
+<h1>On Dev C++, to use another c++ compiler:</h1>
 
 	Add on ur project c++ settings:
 		"-std=c++14"
