@@ -2,7 +2,7 @@
 
   - Algoritmo para cod. e desc. de criptografia de César.
 
-<b>Dia 0</b> 
+<b>Dia 0</b>
 -Uri 1012
 -Uri 1026
 -Uri 1028
