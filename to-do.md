@@ -3,16 +3,16 @@
   - Algoritmo para cod. e desc. de criptografia de César.
 
 <b>Dia 0</b>
--Uri 1012
--Uri 1026
--Uri 1028
--Uri 1030
--Uri 1087
--Uri 1129
--Uri 1160
--Uri 1585
--Uri 2659
--Uri 2674
+  -Uri 1012
+  -Uri 1026
+  -Uri 1028
+  -Uri 1030
+  -Uri 1087
+  -Uri 1129
+  -Uri 1160
+  -Uri 1585
+  -Uri 2659
+  -Uri 2674
 
 <b>Dia 1</b>  
 -Uri 1042
@@ -26,7 +26,7 @@
 -Uri 2534
 -Uri 2729
 
-Dia 2 
+<b>Dia 2</b> 
 -Uri 1025
 -Uri 1029
 -Uri 1153
@@ -35,20 +35,35 @@ Dia 2
 -UVA 441
 -HackerRank Recursive Digit Sum
 
-Dia 3
+<b>Dia 3</b>
 -Uri 1168
+
 -Uri 1273
+
 -Uri 1332
+
 -Uri 1768
+
 -Uri 2242
+
 -Uri 2253
+
 -Uri 2587
+
 -Uri 2651
 
-Dia 4
--Uri 1148-
+
+
+<b>Dia 4</b>
+-Uri 1148
+
 -Uri 1610
+
 -Uri 1790
+
 -Uri 1855
+
 -Uri 1931
+
 -Uri 2562
+
