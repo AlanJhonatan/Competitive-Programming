@@ -3,16 +3,8 @@
   - Algoritmo para cod. e desc. de criptografia de César.
 
 <b>Dia 0</b>
-
-  - Uri 1012 --- OK
-   
-  - Uri 1026 --- OK
-   
-  - Uri 1028 --- OK
    
   - Uri 1030
-   
-  - Uri 1087 --- OK
    
   - Uri 1129 
    
@@ -26,8 +18,6 @@
   
 
 <b>Dia 1</b>  
-
-  - Uri 1042 --- OK
  
   - Uri 1062
  
@@ -54,8 +44,6 @@
    
   - Uri 1029
    
-  - Uri 1153 --- OK
-   
   - Uri 1288
    
   - Uri 1401
@@ -65,18 +53,8 @@
   - HackerRank Recursive Digit Sum
 
 <b>Dia 3</b>
-
-  - Uri 1168 --- OK
-   
-  - Uri 1273 --- OK
-   
-  - Uri 1332 --- OK
-   
-  - Uri 1768 --- OK
    
   - Uri 2242
-   
-  - Uri 2253 --- OK
    
   - Uri 2587  
    
@@ -95,6 +73,4 @@
   - Uri 1855
   
   - Uri 1931
-  
-  - Uri 2562 --- OK
 
