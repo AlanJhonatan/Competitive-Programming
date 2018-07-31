@@ -27,4 +27,4 @@
  
                                  if(pos >= VETOR.size())  
 //              CHECAGEM: SE O ELEMENTO *NÃO FOR ENCONTRADO* A POSIÇÃO É IGUAL AO TAMANHO
-		
+// 		"You need to check pos against VETOR.size() to see if it is out of bounds or not."		
