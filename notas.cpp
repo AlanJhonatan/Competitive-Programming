@@ -31,5 +31,16 @@
 					 
 					 
 // -----------------------------------------------------------------------------------------------------------//
-					 // INVERTER VETOR
+//						-- INVERTER VETOR -- 
 					reverse(VETOR.begin(),VETOR.end());
+// -----------------------------------------------------------------------------------------------------------//
+//					-- Converter NUMERO para STRING --
+					   string s = to_string(VALOR);
+
+//					-- Converter STRING para NUMERO --
+						stringstream sst(STRING); 
+			//cria-se um objeto do tipo stringstream, passando como parâmetro a string
+				
+							int b;
+						      sst >> b;
+					 //E é associado à variável dessa forma.
