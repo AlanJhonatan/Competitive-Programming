@@ -6,6 +6,10 @@
               *COMPARE
               *RECURSIVA
 */
+
+// 					Comparar Strings
+					if (STRING1.compare(STRING2) == )// 0 é totalmente igual
+
 // -----------------------------------------------------------------------------------------------------------//
 
 //                -- ORGANIZAR UM VETOR -- 
